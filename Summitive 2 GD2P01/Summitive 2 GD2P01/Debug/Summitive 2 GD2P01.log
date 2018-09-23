@@ -1,0 +1,13 @@
+﻿  Board.cpp
+c:\users\oem\source\repos\summitive 2 gd2p01\summitive 2 gd2p01\board.cpp(254): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\oem\source\repos\summitive 2 gd2p01\summitive 2 gd2p01\board.cpp(284): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\oem\source\repos\summitive 2 gd2p01\summitive 2 gd2p01\board.cpp(291): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\oem\source\repos\summitive 2 gd2p01\summitive 2 gd2p01\board.cpp(297): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\oem\source\repos\summitive 2 gd2p01\summitive 2 gd2p01\board.cpp(305): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\oem\source\repos\summitive 2 gd2p01\summitive 2 gd2p01\board.cpp(311): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\oem\source\repos\summitive 2 gd2p01\summitive 2 gd2p01\board.cpp(317): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\oem\source\repos\summitive 2 gd2p01\summitive 2 gd2p01\board.cpp(321): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\oem\source\repos\summitive 2 gd2p01\summitive 2 gd2p01\board.cpp(325): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\oem\source\repos\summitive 2 gd2p01\summitive 2 gd2p01\board.cpp(329): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\oem\source\repos\summitive 2 gd2p01\summitive 2 gd2p01\board.cpp(368): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Summitive 2 GD2P01.vcxproj -> C:\Users\OEM\source\repos\Summitive 2 GD2P01\Debug\A-Star Path Finding.exe
