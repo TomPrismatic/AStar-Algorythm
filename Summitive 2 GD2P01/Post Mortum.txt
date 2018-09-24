@@ -1,0 +1,8 @@
+Post Mortem 
+Thomas Sheppard
+Second Year BSe Media Design School
+
+
+Overall I found this summitive to be very challenging. The A Star algorythm was tough but I believe that if I had another chance I could get it working too a better standard. 
+My knowledge of how these algorythms work is now much greater than it was 6 weeks ago. The hill climbing and similated anealing was easier too understand and implement than A Star
+and I am glad that I managed too get both of these algorythms working properly. 
