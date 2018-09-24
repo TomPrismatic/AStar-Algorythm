@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\oem\documents\github\astar-algorythm\summitive 2 gd2p01\hillclimbing tsp\</FILEPATH>
+      <FILENAME>cities.cpp</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Cities::previousCost' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Cities::{ctor}</FUNCTION>
+    <DECORATED>??0Cities@@QAE@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\oem\documents\github\astar-algorythm\summitive 2 gd2p01\hillclimbing tsp\</FILEPATH>
+      <FILENAME>cities.cpp</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>Cities::{ctor}</FUNCTION>
+    <DECORATED>??0Cities@@QAE@XZ</DECORATED>
+    <FUNCLINE>68</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

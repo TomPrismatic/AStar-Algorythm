@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\oem\documents\github\astar-algorythm\summitive 2 gd2p01\summitive 2 gd2p01\</FILEPATH>
+      <FILENAME>board.cpp</FILENAME>
+      <LINE>32</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>This kind of function may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>Board::{ctor}</FUNCTION>
+    <DECORATED>??0Board@@QAE@XZ</DECORATED>
+    <FUNCLINE>32</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\oem\documents\github\astar-algorythm\summitive 2 gd2p01\summitive 2 gd2p01\</FILEPATH>
+      <FILENAME>board.h</FILENAME>
+      <LINE>26</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Board::Node::y' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Board::Node::{ctor}</FUNCTION>
+    <DECORATED>??0Node@Board@@QAE@XZ</DECORATED>
+    <FUNCLINE>26</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

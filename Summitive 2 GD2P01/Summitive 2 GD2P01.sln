@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Summitive 2 GD2P01", "Summitive 2 GD2P01\Summitive 2 GD2P01.vcxproj", "{65152ED2-7BC0-4259-B0BD-45DB5C9D0500}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A-Star Path Finding", "Summitive 2 GD2P01\Summitive 2 GD2P01.vcxproj", "{65152ED2-7BC0-4259-B0BD-45DB5C9D0500}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HillClimbing TSP", "HillClimbing TSP\HillClimbing TSP.vcxproj", "{77977AF5-DEAF-4631-81A5-62272B30A378}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Simulated Annealing", "Simulated Annealing\Simulated Annealing.vcxproj", "{96B7F386-0023-443A-82C5-1D794B17293B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,22 @@ Global
 		{65152ED2-7BC0-4259-B0BD-45DB5C9D0500}.Release|x64.Build.0 = Release|x64
 		{65152ED2-7BC0-4259-B0BD-45DB5C9D0500}.Release|x86.ActiveCfg = Release|Win32
 		{65152ED2-7BC0-4259-B0BD-45DB5C9D0500}.Release|x86.Build.0 = Release|Win32
+		{77977AF5-DEAF-4631-81A5-62272B30A378}.Debug|x64.ActiveCfg = Debug|x64
+		{77977AF5-DEAF-4631-81A5-62272B30A378}.Debug|x64.Build.0 = Debug|x64
+		{77977AF5-DEAF-4631-81A5-62272B30A378}.Debug|x86.ActiveCfg = Debug|Win32
+		{77977AF5-DEAF-4631-81A5-62272B30A378}.Debug|x86.Build.0 = Debug|Win32
+		{77977AF5-DEAF-4631-81A5-62272B30A378}.Release|x64.ActiveCfg = Release|x64
+		{77977AF5-DEAF-4631-81A5-62272B30A378}.Release|x64.Build.0 = Release|x64
+		{77977AF5-DEAF-4631-81A5-62272B30A378}.Release|x86.ActiveCfg = Release|Win32
+		{77977AF5-DEAF-4631-81A5-62272B30A378}.Release|x86.Build.0 = Release|Win32
+		{96B7F386-0023-443A-82C5-1D794B17293B}.Debug|x64.ActiveCfg = Debug|x64
+		{96B7F386-0023-443A-82C5-1D794B17293B}.Debug|x64.Build.0 = Debug|x64
+		{96B7F386-0023-443A-82C5-1D794B17293B}.Debug|x86.ActiveCfg = Debug|Win32
+		{96B7F386-0023-443A-82C5-1D794B17293B}.Debug|x86.Build.0 = Debug|Win32
+		{96B7F386-0023-443A-82C5-1D794B17293B}.Release|x64.ActiveCfg = Release|x64
+		{96B7F386-0023-443A-82C5-1D794B17293B}.Release|x64.Build.0 = Release|x64
+		{96B7F386-0023-443A-82C5-1D794B17293B}.Release|x86.ActiveCfg = Release|Win32
+		{96B7F386-0023-443A-82C5-1D794B17293B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

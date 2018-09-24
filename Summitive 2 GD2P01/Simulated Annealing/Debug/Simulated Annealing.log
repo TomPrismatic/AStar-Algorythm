@@ -1,0 +1,3 @@
+﻿  AnnealCities.cpp
+c:\users\oem\documents\github\astar-algorythm\summitive 2 gd2p01\simulated annealing\annealcities.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Simulated Annealing.vcxproj -> C:\Users\OEM\Documents\GitHub\AStar-Algorythm\Summitive 2 GD2P01\Debug\Simulated Annealing.exe
